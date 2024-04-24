@@ -1,0 +1,7 @@
+﻿  NodeTree.cpp
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 3\Lista 3\NodeTree.cpp(77,14): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 3\Lista 3\NodeTree.cpp(79,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 3\Lista 3\NodeTree.cpp(82,14): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 3\Lista 3\NodeTree.cpp(84,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 3\Lista 3\NodeTree.cpp(136): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: copy
+  Lista 3.vcxproj -> C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 3\x64\Debug\Lista 3.exe
